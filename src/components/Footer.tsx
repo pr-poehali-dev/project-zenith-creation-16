@@ -28,9 +28,9 @@ const data = {
     address: "Москва, Россия",
   },
   company: {
-    name: "ДиджиталХаб",
+    name: "МоторИнфо",
     description:
-      "Создаём цифровые продукты, которые помогают бизнесу расти. Веб-разработка, мобильные приложения и дизайн под ключ.",
+      "Всё о степени сжатия двигателя: как узнать, что это значит и как правильно выбрать топливо, масло и настройку.",
   },
 }
 
@@ -49,10 +49,10 @@ const aboutLinks = [
 ]
 
 const serviceLinks = [
-  { text: "Веб-разработка", href: data.services.web },
-  { text: "Мобильные приложения", href: data.services.mobile },
-  { text: "UI/UX Дизайн", href: data.services.design },
-  { text: "Digital-маркетинг", href: data.services.marketing },
+  { text: "Степень сжатия", href: data.services.web },
+  { text: "Подбор топлива", href: data.services.mobile },
+  { text: "Подбор масла", href: data.services.design },
+  { text: "Настройка зажигания", href: data.services.marketing },
 ]
 
 const helpfulLinks = [

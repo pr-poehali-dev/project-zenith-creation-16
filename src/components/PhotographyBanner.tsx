@@ -1013,16 +1013,16 @@ const PhotographyBanner: React.FC = () => {
 
           <section className="cta-section" id="cta">
             <div className="cta-container">
-              <h2 className="cta-title text-center">Готовы начать?</h2>
+              <h2 className="cta-title text-center">Знай свой мотор.</h2>
               <p className="cta-subtitle">
-                Присоединяйтесь к сотням компаний, которые уже трансформировали свой бизнес. Ваш путь к успеху начинается здесь.
+                Для тех, кто не знает степень сжатия своего двигателя — сообщаю: узнать просто. Сделать сайт — тоже.
               </p>
               <div className="cta-buttons">
                 <a href="#" className="cta-button">
-                  Обсудить проект
+                  Узнать степень сжатия
                 </a>
                 <a href="#" className="cta-button secondary">
-                  Посмотреть кейсы
+                  Подобрать топливо
                 </a>
               </div>
             </div>
